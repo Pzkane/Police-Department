@@ -3,13 +3,13 @@ Tas ir neliela spele, kur tev ir nepieciesami iegut naudu ar izsaukuma un patrul
 ***************
 Pamata principi:
 
-1)Spele ir balstota uz "soli pa solim" principu. Tas nozime, ka tev ir nepieciesami nodarboties ar personala menedzmentu - sutit uz izsaukumiem (calls) 
+1) Spele ir balstita uz "soli pa solim" principu. Tas nozime, ka tev ir nepieciesami nodarboties ar personala menedzmentu - sutit uz izsaukumiem (calls) 
 un patruliem (patrols), parskaitit naudu no primaras uz dispecera naudu, atjaunot energiju personalam - un pec tam pabeigt dienu, lai uzzinatu, vai tev paveicas izpildit
 izsaukumu vai ne.
 
 ---------------------------------\
 
-2)'Calls' un 'patrols' - gavenie veidi, lai nopelnitu naudu. 
+2) 'Calls' un 'patrols' - gavenie veidi, lai nopelnitu naudu. 
 Izsaukumi (calls) dalas uz
 	-white: parasti un viegli
 	-yellow: jau sarezgitak
@@ -21,7 +21,7 @@ Par patrulu teres tikai personalu energija un vini visi vienmer ir sekmigi, bet 
 
 ---------------------------------\
 
-3)Tev ir 3 galvenie naudas veidi. Tas ir:
+3) Tev ir 3 galvenie naudas veidi. Tas ir:
 	-sherifa vai primara naude
 	-dispechera vai 'promotion' nauda
 	-nodokli (taxes)
@@ -32,13 +32,13 @@ Par patrulu teres tikai personalu energija un vini visi vienmer ir sekmigi, bet 
         
 ---------------------------------\
 
-4)Katram unit'am ir sava energija (iznemot sherifu). Energija teresies personalam un dispeceram kad beidzas diena, bet teresies randomi, balstoties uz izsaukuma rezultatiem
+4) Katram unit'am ir sava energija (iznemot sherifu). Energija teresies personalam un dispeceram kad beidzas diena, bet teresies randomi, balstoties uz izsaukuma rezultatiem
 un izsaukuma reitingu. Ja energija beigsies, tad unit izzud. Lai atjaunotu energiju, tev jamaksa nauda. 
 Ja dispeceram beigsies energija, tev jaatjauno ta caur sherifu.
 
 ---------------------------------\
 
-5)Tu vari uznemt pesonalu uz darbu. Vispar ir 3 unit'a veidi:
+5) Tu vari uznemt pesonalu uz darbu. Vispar ir 3 unit'a veidi:
 	-parastais Officer
 	-K9 suns
 	-SAS (vai ka SWAT) unit
