@@ -48,8 +48,9 @@ Ja dispeceram beigsies energija, tev jaatjauno ta caur sherifu.
  Vini visi atskiras tikai ar energijas ietilpibu.
  
 6) Dispeceram ir savs progress. Vinam ir 'stamina' , 'level' un 'experience'. 
- - Stamina teresies, kad beidzas diena
- - 
+ - *Stamina* teresies, kad beidzas diena. To var atjaunot caur Sheriff menu 'Dispatcher's money' apaksizvelne.
+ - *Level* paaugstinas balstoties uz pieredzes (experiemce [EXP]) limena. 
+ - *EXP* paaugstinas par sekmigu izsaukumu un patrulu (patruli vienmer ir sekmigi, bet ne tik izdevigi, ka izsaukumi)
 
 ***************
 
