@@ -41,15 +41,18 @@ Ja dispeceram beigsies energija, tev jaatjauno ta caur sherifu.
 ---------------------------------\
 
 5) Tu vari uznemt pesonalu uz darbu. Vispar ir 3 unit'a veidi:
-	- parastais Officer
-	- K9 suns
-	- SAS (vai ka SWAT) unit
+	- parastais Officer; 15p
+	- K9 suns; 25p
+	- SAS (vai ka SWAT) unit; 30p
 	
- Vini visi atskiras tikai ar energijas ietilpibu.
+ Vini visi atskiras ar energijas ietilpibu un izsaukuma reitingu aizpildisanu. Piemeram, WHITE izsaukumam reitings ir 70p. Jus varat uz izsaukumu uznemt 2 virsniekus (officers), 1 K9 suni (K9 unit) un kopejais pointu skaits bus 55p no 70p. Tas nozime, ka jums ir 71,4% ka izsaukums bus sekmigs.
+ 
+ Jus ari varat aizpildit to pasu WHITE isaukumu augstak, neka 70p. Tas bus >100% iespeja uz sekmigu izsaukumu.
  
 6) Dispeceram ir savs progress. Vinam ir 'stamina' , 'level' un 'experience'. 
  - *Stamina* teresies, kad beidzas diena. To var atjaunot caur Sheriff menu 'Dispatcher's money' apaksizvelne.
- - *Level* paaugstinas balstoties uz pieredzes (experiemce [EXP]) limena. 
+ - *Level* paaugstinas balstoties uz pieredzes (experiemce [EXP]) limena. Balstoties uz limeni (level), dispeceram bus pieejami vairak izsaukumu un patrulu viena diena.
+ Piemeram, Level 1 dispeceram ir tikai 2 izsaukumi un 1 patruls. Bet Level 3 jau bus 4 izsaukumi un 4 patruli.
  - *EXP* paaugstinas par sekmigu izsaukumu un patrulu (patruli vienmer ir sekmigi, bet ne tik izdevigi, ka izsaukumi)
 
 ***************
