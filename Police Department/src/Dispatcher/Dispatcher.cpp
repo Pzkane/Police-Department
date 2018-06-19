@@ -142,6 +142,7 @@ int Dispatcher::ChangeDay(int money, int prom, int taxes, int exp){
     this->setPromBudget(prom);
     this->setTaxes(taxes);
     this->setExp(exp);
+    this->setStamina(this->DispStamina());
 
     srand(time(NULL));
     vector <string> UnitSet;
