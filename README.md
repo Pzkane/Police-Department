@@ -47,6 +47,10 @@ Ja dispeceram beigsies energija, tev jaatjauno ta caur sherifu.
 	
  Vini visi atskiras tikai ar energijas ietilpibu.
  
+6) Dispeceram ir savs progress. Vinam ir 'stamina' , 'level' un 'experience'. 
+ - Stamina teresies, kad beidzas diena
+ - 
+
 ***************
 
 ***************
