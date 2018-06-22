@@ -66,10 +66,10 @@ Ja dispeceram beigsies energija, tev jaatjauno ta caur sherifu.
 	*16580*
 	
 No sakuma tev ir 1 LVL, lai iegutu:
-2) LVL jasanem 7000 EXP
-3) LVL jasanem 15000 EXP
-4) LVL jasanem 21000 EXP
-5) LVL jasanem 30000 EXP
+> 2) LVL jasanem 7000 EXP
+> 3) LVL jasanem 15000 EXP
+> 4) LVL jasanem 21000 EXP
+> 5) LVL jasanem 30000 EXP
  
  - *EXP* paaugstinas par sekmigu izsaukumu un patrulu (patruli vienmer ir sekmigi, bet ne tik izdevigi, ka izsaukumi)
 
