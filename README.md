@@ -50,6 +50,8 @@ Ja dispeceram beigsies energija, tev jaatjauno ta caur sherifu.
  
  Jus ari varat aizpildit to pasu WHITE isaukumu augstak, neka 70p. Tas bus >100% iespeja uz sekmigu izsaukumu.
  
+---------------------------------\
+
 6) Dispeceram ir savs progress. Vinam ir 'stamina' , 'level' un 'experience'. 
  - *Stamina* teresies, kad beidzas diena. To var atjaunot caur Sheriff menu 'Dispatcher's money' apaksizvelne.
  - *Level* paaugstinas balstoties uz pieredzes (experiemce [EXP]) limena. Balstoties uz limeni (level), dispeceram bus pieejami vairak izsaukumu un patrulu viena diena.
