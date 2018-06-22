@@ -55,15 +55,15 @@ Ja dispeceram beigsies energija, tev jaatjauno ta caur sherifu.
  - *Level* paaugstinas balstoties uz pieredzes (experiemce [EXP]) limena. Balstoties uz limeni (level), dispeceram bus pieejami vairak izsaukumu un patrulu viena diena.
  Piemeram, Level 1 dispeceram ir tikai 2 izsaukumi un 1 patruls. Bet Level 3 jau bus 4 izsaukumi un 4 patruli. (Ja tev bus nepieciesami parbaudit, vai mainas dispecera EXP vai LVL un tu negribi teret laiku uz spelesanu, tu vari izmainit datus faila "PD\Dispatcher\DispatcherData.txt", kura:
  
-1) line: Dispatcher [VALUE] - 'Dispatcher' palks nemainigs, bet tu vari mainit [VALUE] tas ir energija (sk. 4. punktu)
-2) line: [LEVEL] - vina limenis
-3) line: [EXP] - vina pieredzes punkti
+> 1) line: Dispatcher [VALUE] - 'Dispatcher' palks nemainigs, bet tu vari mainit [VALUE] tas ir energija (sk. 4. punktu)
+> 2) line: [LEVEL] - vina limenis
+> 3) line: [EXP] - vina pieredzes punkti
 	
-	Faila piemers:
-	
-	*Dispatcher 135*
-	*2*
-	*16580*
+Faila piemers:
+
+	Dispatcher 135
+	2
+	16580
 	
 No sakuma tev ir 1 LVL, lai iegutu:
 > 2) LVL jasanem 7000 EXP
