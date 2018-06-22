@@ -514,7 +514,7 @@ void Dispatcher::DispLevelUp(string &buffer){
     switch(this->DispCurrentLevel()){ //level up Dispatcher's rank if EXP > [statement]
         case 1:
             {
-                if(this->getExp() > 10000){
+                if(this->getExp() > 7000){
                     level = this->DispCurrentLevel() + 1;
                     Up = true;
                 }
@@ -522,7 +522,7 @@ void Dispatcher::DispLevelUp(string &buffer){
             }
         case 2:
             {
-                if(this->getExp() > 25000){
+                if(this->getExp() > 15000){
                     level = this->DispCurrentLevel() + 1;
                     cout<<"LEVEL AFTRE 2nd: "<<level<<endl;
                     Up = true;
@@ -531,7 +531,7 @@ void Dispatcher::DispLevelUp(string &buffer){
             }
         case 3:
             {
-                if(this->getExp() > 40000){
+                if(this->getExp() > 21000){
                     level = this->DispCurrentLevel() + 1;
                     Up = true;
                 }
@@ -539,7 +539,7 @@ void Dispatcher::DispLevelUp(string &buffer){
             }
         case 4:
             {
-                if(this->getExp() > 70000){
+                if(this->getExp() > 30000){
                     level = this->DispCurrentLevel() + 1;
                     Up = true;
                 }
